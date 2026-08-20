@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "title": "bro is easy to draw",
+      "mediaType": "image",
+      "media": "rbxassetid://1234567890",
+      "likes": 9900,
+      "comments": [
+        {
+          "user": "Someone",
+          "text": "Im a chud",
+          "likes": 87,
+          "age": "14d ago"
+        },
+        {
+          "user": "Son_Gohan45602",
+          "text": "in roblox btw",
+          "likes": 66,
+          "age": "5d ago"
+        }
+      ]
+    },
+    {
+      "title": "new roblox short",
+      "mediaType": "video",
+      "media": "rbxassetid://1234567890",
+      "likes": 1200,
+      "comments": [
+        {
+          "user": "Builder",
+          "text": "this is fire",
+          "likes": 22,
+          "age": "1h ago"
+        }
+      ]
+    }
+  ]
+}

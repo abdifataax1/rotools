@@ -1,0 +1,14 @@
+.env
+node_modules/
+dist/
+
+# Generated/runtime data - never publish uploaded clips or Roblox manifests
+data/
+videos/
+.codex_uploads/
+
+# Logs
+*.log
+
+# Third-party binary, not source - download separately (see README)
+tools/yt-dlp.exe
